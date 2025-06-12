@@ -38,7 +38,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/StockMarketProject.git
+   git clone https://github.com/Intellibits-labs/LaggedStockCorrelation.git
    cd StockMarketProject
    ```
 
